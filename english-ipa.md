@@ -23,6 +23,20 @@
 
 SafAle™ S-04 - Fermentis
 
+### Procedimiento
+
+Maceración simple 90 minutos a 65ºC
+
+Hervido 30 minutos
+
+Clarificado con Irish Moss últimos 15 minutos del hervido
+
+Fermentación 12 días
+
+Carbonatación 14 días
+
+Embotellado 6gr/l de azúcar
+
 ### Estadísticas Vitales
 
 | Estadística Vital | Valor |
