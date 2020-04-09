@@ -4,7 +4,7 @@
 
 | Malta | Gramaje |
 | :--- | :--- |
-| Base / Pilsner / Pale | 4,250gr |
+| Base / Pilsner / Pale | 4250gr |
 | Caramelo 40 | 400gr |
 
 ### Lúpulos
