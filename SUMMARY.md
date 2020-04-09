@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Recetario de Cervezas](README.md)
 * [English IPA](english-ipa.md)
 
