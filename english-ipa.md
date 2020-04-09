@@ -7,7 +7,7 @@
 | Base / Pilsner / Pale | 4,250gr |
 | Caramelo 40 | 400gr |
 
-### Lúpulos
+## Lúpulos
 
 | Lúpulo | Gramaje / Tiempo |
 | :--- | :--- |
@@ -15,11 +15,11 @@
 | Kent Golding | 15gr / 15min |
 | Kent Golding | 5gr / 5 min |
 
-### Levadura
+## Levadura
 
 SafAle™ S-04 - Fermentis
 
-### Estadísticas Vitales
+## Estadísticas Vitales
 
 |  |  |
 | :--- | :--- |
