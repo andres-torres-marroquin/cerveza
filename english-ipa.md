@@ -21,7 +21,7 @@ SafAle™ S-04 - Fermentis
 
 ## Estadísticas Vitales
 
-|  |  |
+| Estadística Vital | Valor |
 | :--- | :--- |
 | Densidad Inicial | 1050 |
 | Densidad Final | 1010 |
