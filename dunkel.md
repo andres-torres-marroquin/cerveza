@@ -1,10 +1,10 @@
-# English IPA
+# Dunkel
 
-### Agua
+## Agua
 
 19 litros
 
-### Maltas
+## Maltas
 
 | Malta | Peso | Porcentaje |
 | :--- | :---: | :---: |
@@ -12,17 +12,17 @@
 | Trigo | 1000gr | 19.8% |
 | Chocolate | 250gr | 5% |
 
-### Lúpulos
+## Lúpulos
 
 | Lúpulo | Peso | Tiempo Ebullición |
 | :--- | :---: | :---: |
 | Hallertau | 45gr | 15min |
 
-### Levadura
+## Levadura
 
 SafAle™ WB-06 - Fermentis
 
-### Procedimiento
+## Procedimiento
 
 | Parámetro | Valor |
 | :--- | :---: |
@@ -30,9 +30,9 @@ SafAle™ WB-06 - Fermentis
 | Hervido | 30 minutos |
 | Fermentación | 12 días |
 | Carbonatación | 14 días |
-| Embotellado |  5gr/l de azúcar |
+| Embotellado | 5gr/l de azúcar |
 
-### Estadísticas Vitales
+## Estadísticas Vitales
 
 | Parámetro | Valor |
 | :--- | :---: |
