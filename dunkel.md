@@ -16,7 +16,7 @@
 
 | Lúpulo | Peso | Tiempo Ebullición |
 | :--- | :---: | :---: |
-| Hallertau | 45gr | 15min |
+| Hallertau | 45gr | 10min |
 
 ## Levadura
 
