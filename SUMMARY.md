@@ -4,4 +4,5 @@
 * [English IPA](english-ipa.md)
 * [Dunkel](dunkel.md)
 * [Galaxy Blond Ale](galaxy-blond-ale.md)
+* [Belgian IPA](belgian-ipa.md)
 
