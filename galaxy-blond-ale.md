@@ -1,14 +1,10 @@
 # Galaxy Blond Ale
 
-
-
-## Galaxy Blond Ale
-
-#### Agua
+## Agua
 
 19 litros
 
-#### Maltas
+## Maltas
 
 | Malta | Peso | Porcentaje |
 | :--- | :---: | :---: |
@@ -17,7 +13,7 @@
 | Carapils | 230gr | 5.2% |
 | Caramelo 60 | 60gr | 1.3% |
 
-#### Lúpulos
+## Lúpulos
 
 | Lúpulo | Peso | Tiempo Ebullición |
 | :--- | :---: | :---: |
@@ -27,11 +23,11 @@
 | Galaxy | 10gr | 0min |
 | Citra | 10gr | 0min |
 
-#### Levadura
+## Levadura
 
 SafAle™ US-05 - Fermentis
 
-#### Procedimiento
+## Procedimiento
 
 | Parámetro | Valor |
 | :--- | :---: |
@@ -41,7 +37,7 @@ SafAle™ US-05 - Fermentis
 | Carbonatación | 14 días |
 | Embotellado | 6gr/l de azúcar |
 
-#### Estadísticas Vitales
+## Estadísticas Vitales
 
 | Parámetro | Valor |
 | :--- | :---: |

@@ -1,17 +1,17 @@
 # English IPA
 
-### Agua
+## Agua
 
 19 litros
 
-### Maltas
+## Maltas
 
 | Malta | Peso | Porcentaje |
 | :--- | :---: | :---: |
 | Base / Pilsner / Pale | 4250gr | 91.3% |
 | Caramelo 40 | 400gr | 8.7% |
 
-### Lúpulos
+## Lúpulos
 
 | Lúpulo | Peso | Tiempo Ebullición |
 | :--- | :---: | :---: |
@@ -19,11 +19,11 @@
 | Kent Golding | 15gr | 15min |
 | Kent Golding | 5gr | 5 min |
 
-### Levadura
+## Levadura
 
 SafAle™ S-04 - Fermentis
 
-### Procedimiento
+## Procedimiento
 
 | Parámetro | Valor |
 | :--- | :---: |
@@ -34,7 +34,7 @@ SafAle™ S-04 - Fermentis
 | Carbonatación | 14 días |
 | Embotellado |  6gr/l de azúcar |
 
-### Estadísticas Vitales
+## Estadísticas Vitales
 
 | Parámetro | Valor |
 | :--- | :---: |
